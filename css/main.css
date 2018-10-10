@@ -1,7 +1,95 @@
 html {
 
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   line-height: 1.5;
 }
+
+h1 {
+  font-weight: bolder;
+  font-size: 1.5rem;
+  color: #8f2440;
+}
+
+nav ol li {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+img {
+  width: 5.25in;
+  height: 3.75in;
+}
+
+figcaption {
+  font-family: 'PT Serif', bold, serif;
+  font-style: italic;
+  font-weight: lighter;
+}
+aside {
+  font-family: 'PT Serif', serif;
+  font-weight: normal;
+  font-size: 1.125em
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+main {
+  font-family: 'PT Serif', serif;
+  font-weight: lighter;
+  font-size: .8rem;
+}
+
+main blockquote {
+  text-align: center;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: left;
+  font-size: .8rem;
+  font-weight: lighter;
+}
+
+article ol {
+  list-style-type: lower-greek;
+  font-family: 'PT Serif', serif;
+  font-size: .8rem;
+  font-weight: lighter;
+}
+
+dl {
+  line-height: 200%
+}
+
+dt {
+  font-family: 'PT Serif', serif;
+  font-size: .8rem;
+  font-weight: lighter;
+  font-style: italic;
+
+}
+
+dd {
+  font-family: 'PT Serif', serif;
+  font-size: .8rem;
+  font-weight: lighter;
+}
+
+ul li {
+  list-style-type: none;
+  font-family: 'PT Serif', serif;
+  font-size: .8rem;
+  font-weight: lighter;
+
+}
+
+font-family: 'PT Serif', serif;
